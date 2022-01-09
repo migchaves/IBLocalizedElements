@@ -14,6 +14,7 @@
 		49146854278B8869005EE086 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49146853278B8869005EE086 /* Extensions.swift */; };
 		49146856278B8923005EE086 /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49146855278B8923005EE086 /* MainViewController.swift */; };
 		4914685A278B8B02005EE086 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 4914685C278B8B02005EE086 /* Localizable.strings */; };
+		4914685F278B8C60005EE086 /* DetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4914685E278B8C60005EE086 /* DetailsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		49146855278B8923005EE086 /* MainViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
 		4914685B278B8B02005EE086 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
 		4914685D278B8B05005EE086 /* pt */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = pt; path = pt.lproj/Localizable.strings; sourceTree = "<group>"; };
+		4914685E278B8C60005EE086 /* DetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			isa = PBXGroup;
 			children = (
 				49146855278B8923005EE086 /* MainViewController.swift */,
+				4914685E278B8C60005EE086 /* DetailsViewController.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -187,6 +190,7 @@
 				49146856278B8923005EE086 /* MainViewController.swift in Sources */,
 				4914684D278B873D005EE086 /* AppDelegate.swift in Sources */,
 				49146854278B8869005EE086 /* Extensions.swift in Sources */,
+				4914685F278B8C60005EE086 /* DetailsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -6,5 +6,8 @@
   
 */
 
+"main_title" = "Welcome";
+"details_title" = "Details";
+
 "label_title_1" = "Present details controller";
 "button_title_1" = "Touch here";

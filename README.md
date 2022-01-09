@@ -16,4 +16,8 @@ This small project pretends to show how to localize strings directly in the Inte
 
 <img width="264" alt="print2" src="https://user-images.githubusercontent.com/97108101/148702066-fdbd6598-3444-4288-90ad-21cbe509a105.png">
 
+5 - Also you can use this localization in the code (example, the Controller titles):
+
+<img width="414" alt="print4" src="https://user-images.githubusercontent.com/97108101/148702229-8bd32457-386f-496d-9b7f-51f1f98ce963.png">
+
 That's done :)
